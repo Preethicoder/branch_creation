@@ -4,4 +4,5 @@ Elephant
 lion
 turtle
 frog
+peacock
 
